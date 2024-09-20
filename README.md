@@ -1,5 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on enhancing my skills in machine learning techniques and data analytics.<br>👯 I’m looking to collaborate on Open-source data science projects that make a positive impact.<br>🤝 I’m looking for help with Exploring new data visualization tools and techniques.<br>🌱 I’m currently learning Deep learning and neural networks to expand my analytical capabilities.<br>💬 Ask me about Anything related to data analysis, visualization, or machine learning.<br>⚡ Fun fact: I love solving puzzles and often spend my weekends working on complex jigsaw puzzles or brain teasers.
+I am a skilled Data Analyst, Database Manager and Data Technician with a robust foundation in critical thinking, problem-solving, and process optimization. My background in the manufacturing sector has provided me with valuable experience in managing complex projects, enhancing operational efficiencies, and collaborating effectively with cross-functional teams.
+
+Driven by a passion for data and its potential to uncover insights and drive strategic decisions, I completed a comprehensive Data Analytics Bootcamp with Just IT. Through this program, I gained hands on experience with key tools such as Power BI, Tableau, Cloud Computing, Excel, Python, and R.
+
+My disciplined approach to problem solving and results oriented mindset, honed through my previous career, equip me well for a junior data analyst role. I am eager to leverage my skills and expertise to help organizations translate data into actionable strategies and support their strategic goals.
 
 
 ## 🌐 Socials:
